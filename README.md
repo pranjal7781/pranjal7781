@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
-HTML | CSS | JavaScript | Python | React | Flask | SQL | Git
+
 ---
 
 ## 🛠️ Tools
@@ -34,5 +34,5 @@ HTML | CSS | JavaScript | Python | React | Flask | SQL | Git
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-VS Code | GitHub | Jupyter | Canva | MySQL
+
 ---
