@@ -1,4 +1,4 @@
-# Pranjal-Saxena
+
 # 👋 Hi, I'm Pranjal Saxena
 
 - 💻 I'm passionate about software development, web development & data analytics.
