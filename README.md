@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Pranjal Saxena
-
+- 🎓 Computer Science Graduate
 - 💻 I'm passionate about software development, web development & data analytics.
 - 🌱 Currently learning advanced Python and working on data science projects.
 - 🤝 I’m looking to collaborate on open-source and freelance projects.
@@ -8,7 +8,7 @@
 ---
 
 ## 📬 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pranjalsaxena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pranjalsaxena7781)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:pranjal23saxena@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Pranjal7781)
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white" />
-
+HTML | CSS | JavaScript | Python | React | Flask | SQL | Git
 ---
 
 ## 🛠️ Tools
@@ -34,5 +34,5 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-
+VS Code | GitHub | Jupyter | Canva | MySQL
 ---
