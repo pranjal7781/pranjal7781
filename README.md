@@ -47,4 +47,15 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+---
+
+### ✨ Quote
+> “If you're working on something exciting, it will keep you motivated.” – Steve Jobs
+
+---
+
+## Optional visitor counter
+![Visitor Count](https://komarev.com/ghpvc/?username=pranjal7781&style=flat-square)
+
+---
 
