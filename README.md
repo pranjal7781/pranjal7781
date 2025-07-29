@@ -54,7 +54,7 @@
 
 ---
 
-## Optional visitor counter
+## Visitor counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=pranjal7781&style=flat-square)
 
 ---
