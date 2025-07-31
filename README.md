@@ -1,4 +1,4 @@
-![Hi I'm Pranjal](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Pranjal%20Saxena&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![Hi I'm Pranjal](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Pranjal&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 - 🎓 Computer Science Graduate
 - 💻 I'm passionate about software development, web development & data analytics.
 - 🌱 Currently learning advanced Python and working on data science projects.
