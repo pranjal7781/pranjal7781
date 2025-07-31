@@ -13,6 +13,17 @@
 
 ---
 
+<h3 align="center">What I'm Doing</h3>
+<div align="center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="100" />
+<p align="center">
+  🚀 Software Development  🌐 Web Development <br>  ⚙️ Full-Stack Development  🤝 Volunteer Work  
+  🌍 Open Source Contribution 
+</p>
+</div>    
+
+---
+
 ## ✨ Fun Fact
 🌿 I enjoy building creative projects and exploring tech communities.
 
