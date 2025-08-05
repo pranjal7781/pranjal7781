@@ -17,13 +17,12 @@
 
 ---
 
-## 📬 How to reach me:
+## 📬  Let's Connect!🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pranjal7781)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:pranjal23saxena@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/pranjal7781)
 
 ---
-
 
 ## ✨ Fun Fact
 🌿 I enjoy building creative projects and exploring tech communities.
