@@ -24,6 +24,7 @@
 
 ---
 
+
 ## ✨ Fun Fact
 🌿 I enjoy building creative projects and exploring tech communities.
 
@@ -56,6 +57,14 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+
+## 📊 GitHub Stats
+
+![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal7781&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&layout=compact&theme=tokyonight)
 
 ---
 
