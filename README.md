@@ -6,6 +6,10 @@
 
 ---
 
+<div align="center">
+  <b>🧠 Tech I'm Passionate About 💻</b>
+</div>
+
 
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="100" />
