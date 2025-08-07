@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal7781&show_icons=true&theme=tokyonight)  
+![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal7781&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&layout=compact&theme=tokyonight)
 
 ---
