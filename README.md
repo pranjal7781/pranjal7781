@@ -1,5 +1,5 @@
 ![Hi I'm Pranjal](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Pranjal&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
-- 🎓 Computer Science Graduate
+- 🎓 Computer Science Graduate.
 - 💻 I'm passionate about software development, web development & data analytics.
 - 🌱 Currently learning advanced Python and working on data science projects.
 - 🤝 I’m looking to collaborate on open-source and freelance projects.
@@ -14,8 +14,8 @@
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="100" />
 <p align="center">
-  🚀 Software Development  🌐 Web Development <br>  ⚙️ Full-Stack Development   📊 Data Analyst 
-  🌍 Open Source Contribution 
+  🚀 Software Development  🌐 Web Development <br> 
+  ⚙️ Full-Stack Development   📊 Data Analyst  🌍 Open Source Contribution 
 </p>
 </div>    
 
@@ -82,7 +82,6 @@
 ---
 
 <div align="center">
-
 <h3 align="center"> Profile Views</h3>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=pranjal7781&style=flat-square)
