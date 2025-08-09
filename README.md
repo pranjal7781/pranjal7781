@@ -76,9 +76,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&layout=compact&theme=tokyonight)
 
 ---
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjal7781&bg_color=0d1117&color=ffffff&line=00d9ff&point=ff6b6b&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
 
 ### ✨ Quote
 > “If you're working on something exciting, it will keep you motivated.” – Steve Jobs
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
 ---
 
