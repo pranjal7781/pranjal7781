@@ -56,12 +56,6 @@
 
 ---
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranjal7781&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=pranjal7781&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranjal7781&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
@@ -88,6 +82,9 @@
 
 ![Pranjal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjal7781&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=pranjal7781&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=pranjal7781&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 <div align="center">
