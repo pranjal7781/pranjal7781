@@ -56,16 +56,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranjal7781&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=pranjal7781&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ## 🛠️ Tools
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -84,6 +74,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal7781&layout=compact&theme=tokyonight) <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=pranjal7781&layout=compact&theme=tokyonight)<br/>
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranjal7781&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 <div align="center">
