@@ -19,7 +19,7 @@
 </p>
 </div>    
 
----
+--- 
 
 ## 📬  Let's Connect!🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pranjal7781)
