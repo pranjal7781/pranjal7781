@@ -6,7 +6,7 @@
 
 --- 
  
-<div align="center">
+<div align="center"> 
   <b>🧠 Tech I'm Passionate About 💻</b>
 </div>
 
