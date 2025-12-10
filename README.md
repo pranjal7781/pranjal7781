@@ -87,7 +87,6 @@
 ---
  
 ## ✨ Quote
-> “If you're working on something exciting, it will keep you motivated.” – Steve Jobs
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
