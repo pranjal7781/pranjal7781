@@ -4,7 +4,7 @@
 - 🌱 Currently learning advanced Python and working on data science projects.
 - 🤝 I’m looking to collaborate on open-source and freelance projects.
 - 
---- 
+---
  
 <div align="center"> 
   <b>🧠 Tech I'm Passionate About 💻</b>
